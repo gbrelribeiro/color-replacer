@@ -2,7 +2,7 @@
   Trocador de Cor
 </h1>
 
-## ⬇️ Download
+## Download
 
 | Versão | Download |
 |---|---|
